@@ -1,2 +1,0 @@
-# Orthographic
-Senior Project
